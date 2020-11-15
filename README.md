@@ -4,7 +4,7 @@
 
 仅限于技术交流，为了避免被用作奇怪的用途，不提供任何编译版本，也请不要散播自己编译的二进制文件。
 
-![原理说明](https://blog.thestarweb.cn/essay/id/129)
+[原理说明](https://blog.thestarweb.cn/essay/id/129)
 
 另，本项目应该是不会更新了
 
